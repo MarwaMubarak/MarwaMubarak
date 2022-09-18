@@ -1,43 +1,32 @@
-<h1>Hi there! 👋!</h1>
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30" height="30"></h1>
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="50"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="50"/> </a> 
             
-<!--
-MarwaMubarak/MarwaMubarak is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="python"  height="50"/> </a> 
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/fu/369254/png/369254.png" alt="python"  height="50"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="python"  height="50"/> </a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="python"  height="50"/> </a>  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡️ Fun fact: ...
--->
-</div>
-
-### Languages and Tools 🛠: ###
-  
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">  <img height="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"> <img height="50" src="https://camo.githubusercontent.com/47380987ecfc7e15bb287529fe03a2c63273ad597edcc85352b02cbb942863e5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2d2d76312e706e67">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="50" src="https://rohit-kumar.me/images/icons/html.svg">  <img height="50" src="https://rohit-kumar.me/images/icons/css.svg">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">   <img height="50" src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png">   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">     <img height="50" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png?w=740&t=st=1654710945~exp=1654711545~hmac=04c53067ba47cb96d1c905ef671807e153468cf6ddf3bdc879e7267588aec896">     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">  <img height="50" src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png">
+           
+            
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="50"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  height="50"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="45"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django"  height="50"/> </a> 
 
 
-### Reach me at 📫: ###
-<a href="https://www.linkedin.com/in/marwa-ahmed-mubarak/">
-  <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>   
-  <a href="mailto:marwamubarak6@gmail.com">
-  <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>   
-<a href="https://twitter.com/MarwaMubarak_">
-  <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
-</a>   <a href="https://codeforces.com/profile/MarwaMubarak">
-  <img align="center" alt="Falguni @Codeforces" height="40" src="https://rohit-kumar.me/images/codeforces.svg" />
-</a>       
-<a href="https://www.hackerrank.com/marwamubarak6">
-  <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
-</a>
-<a href="https://leetcode.com/MarwaMubarak/">
-  <img align="center" alt="Falguni @Letcoode" height="40" src="https://rohit-kumar.me/images/leetcode.svg" />
-</a>
-<br><br>
-<p > <img src="https://github-readme-stats.vercel.app/api?username=MarwaMubarak&show_icons=true" alt="MarwaMubarak" /> </p>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="50"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="50"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"  height="50"/> </a> 
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="mailto:marwamubarak6@gmail.com">
+  <img align="center" alt="Falguni @Mail" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a> <a href="https://www.linkedin.com/in/marwa-ahmed-mubarak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwa-ahmed-mubarak" height="45" /></a>
+            <a href="https://www.facebook.com/marwa.mubarak.58/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwa.mubarak.58/" height="45" /></a>
+            <a href="https://twitter.com/MarwaMubarak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MarwaMubarak_" height="45" /></a>
+<a href="https://codeforces.com/profile/MarwaMubarak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="MarwaMubarak" height="45" /></a>
+<a href="https://www.hackerrank.com/marwamubarak6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marwamubarak6" height="45" /></a>
+<a href="https://leetcode.com/MarwaMubarak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MarwaMubark" height="45" /></a>
+</p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarwaMubarak&show_icons=true&locale=en" alt="MarwaMubarak" /></p>
+</p>
